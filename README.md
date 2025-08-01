@@ -3,7 +3,7 @@ Let us collaborate together
 
 Hi there, I'm David Mmari 
 
-I'm **David Mmari**, also known as **Stima Man Tz**. I'm a software developer with a passion for programming and creating useful applications.
+I'm **David Mmari**, also known as **Stima Man Tz**. I'm a software developer with a passion for programming and creating useful applications and crazy stuffs.
 
 - I primarily work with **Golang**, **Kotlin**, and **Jetpack Compose**.
 -  I love making small, impactful projects and will be uploading them here soon.
